@@ -1,1 +1,89 @@
-kniga
+@wwq911 ➜ ~ $ history
+    1  ls
+    2  cd kniga 
+    3  cd kniga
+    4  cd test
+    5  man pwd
+    6  pwd
+    7  mkdir testdir
+    8  mkdir testdir2
+    9  ls
+   10  cd ~
+   11  ls 
+   12  cd nvm
+   13  ls
+   14  mkdir test
+   15  mkdir test2
+   16  cd test2
+   17  ls
+   18  touch text.txt
+   19  ls
+   20  man cp
+   21  cp text.txt
+   22  man cp
+   23  man mv
+   24  mv text.txt > textSIT.txt
+   25  mv text
+   26  mv text > textSIT
+   27  mv text.txt/textSIT.txt
+   28  ls
+   29  rm textSIT
+   30  rm textSIT.txt
+   31  ls
+   32  mv text/textSIT
+   33  ls
+   34  man mv
+   35  mv text.txt textSIT.txt
+   36  ls
+   37  cd
+   38  ls
+   39  cd nvm
+   40  ls
+   41  cd test
+   42  ls
+   43  cd ~
+   44  cd nvm
+   45  ls
+   46  mkdir test3
+   47  cd nvm
+   48  ls
+   49  cd test2
+   50  ls
+   51  cp textSIT.txt /~/nvm/test3
+   52  cp textSIT.txt ~/nvm/test3
+   53  cd ~
+   54  cd nvm
+   55  ls
+   56  cd test3
+   57  ls
+   58  mv textSIT.txt copy.txt
+   59  man ln
+   60  ln copy.txt ~/nvm/test2 
+   61  ls
+   62  cd nvm
+   63  cd ~
+   64  cd nvm
+   65  cd test2
+   66  ls
+   67  cd ~
+   68  cd nvm
+   69  ls
+   70  rm test2
+   71  rm -rf test2
+   72  rm -rf test3
+   73  ls
+   74  cd ~
+   75  cd /home/
+   76  ls
+   77  cd codespace
+   78  ls
+   79  cd /home/
+   80  ls
+   81  cd vscode
+   82  ls
+   83  cd /home/
+   84  clear
+   85  ls
+   86  ls
+   87  history
+@wwq911 ➜ ~ $ 
